@@ -1,0 +1,54 @@
+/* Applying styles globally */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Title Styling */
+.main-title {
+    color: #2c3e50;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 2.5rem;
+}
+
+/* Image Section Styling */
+#image-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.styled-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid #3498db;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Content Section Styling */
+.content {
+    margin: 20px;
+    padding: 15px;
+    background-color: rgb(221, 148, 11);
+    border: 1px solid #5e4904;
+    border-radius: 8px;
+}
+
+/* Highlight Box Styling */
+.highlight-box {
+    background-color: #c0c9d1;
+    border: 2px solid #583a12;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+/* Customizing Typography */
+p {
+    font-size: 1rem;
+    color: #34495e;
+}
